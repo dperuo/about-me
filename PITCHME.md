@@ -1,17 +1,27 @@
-# Selling the Shift
+# Aqua
 
-### A Blank Template of the “Best Sales Deck Ever”
+### A GitPitch Presentation Template
+
+---
+
+## Tips!
+
+<br>
+
+@fa[arrows gp-tip](Press F to go Fullscreen)
+
+@fa[microphone gp-tip](Press S for Speaker Notes)
 
 ---
 
 ## Template Features
 
-- Code Presenting
-- Repo Source, Static Blocks, GIST
-- Custom CSS Styling
-- Slideshow Background Image
-- Slide-specific Background Images
-- Custom Logo, TOC, and Footnotes
+- Code Presenting |
+- Repo Source, Static Blocks, GIST |
+- Custom CSS Styling |
+- Slideshow Background Image |
+- Slide-specific Background Images |
+- Custom Logo, TOC, and Footnotes |
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 
