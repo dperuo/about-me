@@ -1,27 +1,25 @@
-# Aqua
+# Selling the Shift
 
-### A GitPitch Presentation Template
-
----
-
-## Tips!
-
-<br>
-
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
+### A Blank Template of the “Best Sales Deck Ever”
 
 ---
 
-## Template Features
+## Credits
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
+- <https://www.linkedin.com/pulse/greatest-sales-deck-ive-ever-seen-andy-raskin/>
+- <https://www.zuora.com/resource/best-sales-deck-ever/>
+- <https://michaelhaupt.com>
+
+---
+
+## 1. Our World is Changing
+
+- Name a big, relevant change happening in your prospect’s world
+- It must be an undeniable shift that creates both:
+    - Big stakes, and
+    - Huge urgency for the prospect
+
+
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 
