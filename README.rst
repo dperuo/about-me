@@ -1,6 +1,10 @@
 Derek Peruo | About Me
 ======================
 
+.. sidebar:: Sidebar Title
+
+   Subsequent indented lines comprise the body of the sidebar, and are interpreted as body elements.
+
 Location & Timezone
   See `Timezone.io <https://timezone.io/people/5ad9fb24692c6f23d94646eb>`_
 
