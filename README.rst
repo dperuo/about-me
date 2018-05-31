@@ -8,3 +8,5 @@ About Me
 - `User Manual <https://github.com/dperuo/about-me/wiki/User-Manual>`_
 
 - `Playbook <https://github.com/dperuo/about-me/wiki/Playbook>`_
+
+- `Dev Skills <https://github.com/dperuo/about-me/wiki/Dev-Skills>`_
