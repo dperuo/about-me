@@ -14,7 +14,7 @@ Basic Info
 Location & Timezone
 ^^^^^^^^^^^^^^^^^^^
 
-Usually U.S. Central Time. UTC-6 or UTC-5 depending on Daylight Saving Time. See local time at `Timezone.io`_.
+Usually U.S. Central Time, which is UTC-6 or UTC-5 depending on Daylight Saving Time. See my local time at `Timezone.io`_.
 
 
 
@@ -33,3 +33,4 @@ Further Reading
 
     user-manual
     playbook
+    dev-skills
