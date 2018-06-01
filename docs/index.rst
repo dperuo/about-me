@@ -4,25 +4,18 @@
 
 Working with Derek Peruo
 ========================
-
 Hello and welcome! Please click the links to learn more about who I am and how I like to work.
 
 
-Basic Info
-----------
-
 Location & Timezone
-^^^^^^^^^^^^^^^^^^^
-
+-------------------
 Usually U.S. Central Time, which is UTC-6 or UTC-5 depending on Daylight Saving Time. See my local time at `Timezone.io`_.
 
 
 
 GPG Public Key
-^^^^^^^^^^^^^^
-
+--------------
 Hosted on `Keybase.io`_. Fingerprint: ``16FB 5BD3 FFC9 A476``
-
 
 
 Further Reading
@@ -34,3 +27,13 @@ Further Reading
     user-manual
     playbook
     dev-skills
+
+
+Portfolio Links
+---------------
+
+.. toctree::
+    :titlesonly:
+
+    keybase <https://derekperuo.keybase.pub/>
+    github <https://github.com/dperuo>
