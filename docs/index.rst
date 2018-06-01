@@ -37,5 +37,6 @@ Useful Links
 
     Official Site <http://derekperuo.net>
     Github <https://github.com/dperuo>
-    Keybase `Keybase.io`_
+    `Keybase.io`_
     npm <https://www.npmjs.com/~dperuo>
+    `Timezone.io`_
