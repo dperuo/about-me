@@ -5,7 +5,7 @@ Hello and welcome! Please click the links to learn more about who I am and how I
 
 .. toctree::
     :titlesonly:
-    :maxdepth: 1
+    :maxdepth: 2
 
     user-manual
 
