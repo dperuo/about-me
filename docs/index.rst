@@ -34,6 +34,9 @@ Portfolio Links
 
 .. toctree::
     :titlesonly:
+    :numbered:
 
-    keybase <https://derekperuo.keybase.pub/>
-    github <https://github.com/dperuo>
+    Official Site <http://derekperuo.net>
+    Github <https://github.com/dperuo>
+    Keybase <https://derekperuo.keybase.pub/>
+    npm <https://www.npmjs.com/~dperuo>
