@@ -4,15 +4,7 @@ Working with Derek Peruo
 Hello and welcome! Please click the links to learn more about who I am and how I like to work.
 
 .. toctree::
-    :maxdepth: 2
-    :caption: Contents:
+    :maxdepth: 1
+    :caption:
 
     user-manual
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

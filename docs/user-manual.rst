@@ -1,3 +1,6 @@
+User Manual
+===========
+
 .. _Leah Fessler: https://qz.com/1046131/writing-a-user-manual-at-work-makes-teams-less-anxious-and-more-productive/
 .. _Abby Falik: https://www.linkedin.com/pulse/leaders-need-user-manuals-what-i-learned-writing-mine-abby-falik
 
@@ -11,7 +14,7 @@ Hello and welcome to my user manual. It details who I am, what I value, and how 
 
 
 Core Values
-===========
+-----------
 
 Do Good Work
   Create “Good Karma” in the universe. You should always feel comfortable telling your mother about what you do and how you do it.
@@ -34,16 +37,16 @@ Play to Win
 
 
 My Style
-========
+--------
 
 Maximize ROI
-  Focus on value. Leverage your time and money. Use force multipliers. `Do less <https://www.youtube.com/watch?v=TrvLEgPpV8s>`_. Find the `Objectives, Key Results <https://en.wikipedia.org/wiki/OKR>`_, and `Key Performance Indicator <https://www.klipfolio.com/resources/kpi-examples>`_.
+  Focus on value. Leverage your time and money. Use force multipliers. `Do less <https://www.youtube.com/watch?v-TrvLEgPpV8s>`_. Find the `Objectives, Key Results <https://en.wikipedia.org/wiki/OKR>`_, and `Key Performance Indicator <https://www.klipfolio.com/resources/kpi-examples>`_.
 
 Predict and Delegate
   *"The two most important attributes of effective leaders are their ability to predict and to delegate."* ~ `Verne Harnish <https://www.amazon.com/Mastering-Rockefeller-Habits-Increase-Growing/dp/0978774957>`_
 
 Done Is Better Than Perfect
-  Perfection takes too long. Iterate `often <https://www.youtube.com/watch?v=jHyU54GhfGs>`_. Keep the `feedback loop <https://en.wikipedia.org/wiki/OODA_loop>`_ as short as possible. `Disagree and commit <https://www.amazon.jobs/principles>`_ when needed.
+  Perfection takes too long. Iterate `often <https://www.youtube.com/watch?v-jHyU54GhfGs>`_. Keep the `feedback loop <https://en.wikipedia.org/wiki/OODA_loop>`_ as short as possible. `Disagree and commit <https://www.amazon.jobs/principles>`_ when needed.
 
 Work in Small Blocks of Time
   I break my day into small blocks of time like `Bill Gates and Elon Musk <http://www.businessinsider.com/bill-gates-elon-musk-scheduling-habit-2017-8>`_. My blocks are 6 minutes long. I fit all my work into multiples of `these blocks <https://gist.github.com/dperuo/f29a48fce8d306140a46e3bbed422ea0>`_.
@@ -57,7 +60,7 @@ Use the Playbook
 
 
 How to Communicate With Me
-==========================
+--------------------------
 
 Be Blunt
   Tell me what I need to know, not what you think I want to hear. Never  `sugarcoat <https://en.wiktionary.org/wiki/sugarcoat>`_ or  `bury the lead <https://en.wiktionary.org/wiki/bury_the_lead#English>`_. I cannot read your mind or second-guess what you're trying to say.
@@ -80,7 +83,7 @@ Protect Your Time
 
 
 How to Help Me
-==============
+--------------
 
 Cover the Details
   I move fast and don’t always catch every detail. Please cover the details, and flag me down for details that need my attention.
@@ -97,7 +100,7 @@ Find a Better Way
 
 
 Work Hours
-==========
+----------
 
 I Don't Track the Hours You Work
   My focus is on the value we bring to our clients and customers. If you can do that in 30 minutes while sitting on a park bench in Zurich, then do it!
