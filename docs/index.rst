@@ -11,14 +11,19 @@ Basic Info
 ----------
 
 Location & Timezone
-  Usually US CST (UTC-6) or CDT (UTC-5) depending on Daylight Saving Time. See details at `Timezone.io`_.
+^^^^^^^^^^^^^^^^^^^
+
+Usually US CST (UTC-6) or CDT (UTC-5) depending on Daylight Saving Time. See details at `Timezone.io`_.
 
 GPG Public Key
-  Hosted on `Keybase.io`_. Fingerprint: ``16FB 5BD3 FFC9 A476``
+^^^^^^^^^^^^^^
+
+Hosted on `Keybase.io`_. Fingerprint: ``16FB 5BD3 FFC9 A476``
+
+Further Reading
+^^^^^^^^^^^^^^^
 
 .. toctree::
     :titlesonly:
-    :maxdepth: 2
-    :caption: Further Reading:
 
     user-manual
