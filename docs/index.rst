@@ -29,13 +29,13 @@ Further Reading
     dev-skills
 
 
-Portfolio Links
----------------
+Useful Links
+------------
 
 .. toctree::
     :titlesonly:
 
     Official Site <http://derekperuo.net>
     Github <https://github.com/dperuo>
-    Keybase.pub <https://derekperuo.keybase.pub/>
+    Keybase `Keybase.io`_
     npm <https://www.npmjs.com/~dperuo>
