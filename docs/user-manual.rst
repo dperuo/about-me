@@ -1,3 +1,5 @@
+**Last Update: 2018-05-31**
+
 User Manual
 ===========
 
@@ -5,12 +7,6 @@ User Manual
 .. _Abby Falik: https://www.linkedin.com/pulse/leaders-need-user-manuals-what-i-learned-writing-mine-abby-falik
 
 Hello and welcome to my user manual. It details who I am, what I value, and how best to work with me. Hat tips for the idea go to `Leah Fessler`_ and `Abby Falik`_.
-
-**Last Update: 2018-05-31**
-
-.. contents::
-    :depth: 2
-    :backlinks: none
 
 
 Core Values
