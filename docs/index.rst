@@ -6,7 +6,6 @@ Hello and welcome! Please click the links to learn more about who I am and how I
 .. toctree::
     :titlesonly:
     :maxdepth: 1
-    :caption: Contents:
 
     user-manual
 
