@@ -21,7 +21,7 @@ GPG Public Key
 Hosted on `Keybase.io`_. Fingerprint: ``16FB 5BD3 FFC9 A476``
 
 Further Reading
-^^^^^^^^^^^^^^^
+---------------
 
 .. toctree::
     :titlesonly:
