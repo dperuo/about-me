@@ -1,5 +1,5 @@
-.. |keybase-url| replace:: https://keybase.io/derekperuo
-.. |timezone-url| replace:: https://timezone.io/people/5ad9fb24692c6f23d94646eb
+.. _Timezone.io: https://timezone.io/people/5ad9fb24692c6f23d94646eb
+.. _Keybase.io: https://keybase.io/derekperuo
 
 
 Working with Derek Peruo
@@ -9,7 +9,7 @@ Hello and welcome! Please click the links to learn more about who I am and how I
 
 Location & Timezone
 -------------------
-Usually U.S. Central Time, which is UTC-6 or UTC-5 depending on Daylight Saving Time. See my local time at `Timezone.io <|timezone-url|>`_.
+Usually U.S. Central Time, which is UTC-6 or UTC-5 depending on Daylight Saving Time. See my local time at `Timezone.io`_.
 
 
 
@@ -29,14 +29,14 @@ Further Reading
     dev-skills
 
 
-Useful Links
-------------
+Portfolio Links
+---------------
 
 .. toctree::
     :titlesonly:
 
     Official Site <http://derekperuo.net>
     Github <https://github.com/dperuo>
-    `Keybase.io`_
+    Keybase <https://keybase.io/derekperuo>
     npm <https://www.npmjs.com/~dperuo>
-    `Timezone.io`_
+    Timezone.io <https://timezone.io/people/5ad9fb24692c6f23d94646eb>
