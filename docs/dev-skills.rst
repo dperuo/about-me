@@ -207,10 +207,12 @@ Collaboration & Documentation
 - Markdown
 - Mercurial
 - Postman
+- Read the Docs
 - reStructuredText
 - Scrum
 - Slack
 - SourceTree
+- Sphinx
 - Swagger
 - TDD
 - TDR
