@@ -32,3 +32,4 @@ Further Reading
     :titlesonly:
 
     user-manual
+    playbook
