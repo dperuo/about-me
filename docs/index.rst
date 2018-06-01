@@ -1,5 +1,5 @@
-.. _Timezone.io: https://timezone.io/people/5ad9fb24692c6f23d94646eb
-.. _Keybase.io: https://keybase.io/derekperuo
+.. |keybase-url| replace:: https://keybase.io/derekperuo
+.. |timezone-url| replace:: https://timezone.io/people/5ad9fb24692c6f23d94646eb
 
 
 Working with Derek Peruo
@@ -9,7 +9,7 @@ Hello and welcome! Please click the links to learn more about who I am and how I
 
 Location & Timezone
 -------------------
-Usually U.S. Central Time, which is UTC-6 or UTC-5 depending on Daylight Saving Time. See my local time at `Timezone.io`_.
+Usually U.S. Central Time, which is UTC-6 or UTC-5 depending on Daylight Saving Time. See my local time at `Timezone.io <|timezone-url|>`_.
 
 
 
