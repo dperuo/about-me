@@ -15,7 +15,7 @@ Usually U.S. Central Time, which is UTC-6 or UTC-5 depending on Daylight Saving 
 
 GPG Public Key
 --------------
-Hosted on `Keybase.io`_. Fingerprint: ``16FB 5BD3 FFC9 A476``
+Hosted on `Keybase.io`_. The key fingerprint is ``16FB 5BD3 FFC9 A476``.
 
 
 Further Reading
