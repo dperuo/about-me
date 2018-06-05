@@ -29,8 +29,8 @@ Further Reading
     dev-skills
 
 
-Portfolio Links
----------------
+Miscellaneous Links
+-------------------
 
 .. toctree::
     :titlesonly:
@@ -38,7 +38,7 @@ Portfolio Links
     Official Site <http://derekperuo.net>
     Bitbucket <https://bitbucket.org/dperuo>
     GitHub <https://github.com/dperuo>
-    GitLab <https://github.com/dperuo>
+    GitLab <https://gitlab.com/dperuo>
     Keybase <https://keybase.io/derekperuo>
     LinkedIn <https://www.linkedin.com/in/derekperuo/>
     npm <https://www.npmjs.com/~dperuo>
