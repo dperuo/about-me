@@ -51,7 +51,7 @@ Schedule Meetings in Advance
   Scheduled all meetings with me in advance. Shorter meetings are better than longer meetings.
 
 Use the Playbook
-  When in doubt, consult the [[Playbook]].
+  When in doubt, consult the :ref:`playbook`.
 
 
 
