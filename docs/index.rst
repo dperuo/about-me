@@ -7,6 +7,11 @@ Working with Derek Peruo
 Hello and welcome! Please click the links to learn more about who I am and how I like to work.
 
 
+.. include:: basic-info
+
+.. include:: basic-info.rst
+
+
 Location & Timezone
 -------------------
 Usually U.S. Central Time, which is UTC-6 or UTC-5 depending on Daylight Saving Time. See my local time at `Timezone.io`_.
