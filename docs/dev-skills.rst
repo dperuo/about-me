@@ -197,7 +197,9 @@ Collaboration & Documentation
 - Feature Flags
 - Feature Toggles
 - Git
+- Github
 - GitHub Flow
+- GitLab
 - Google Drive
 - HipChat
 - Jira
