@@ -11,6 +11,8 @@ User Manual for Derek Peruo
 
 Hello and welcome to my user manual. It details who I am, what I value, and how best to work with me. Hat tips for the idea go to `Leah Fessler`_ and `Abby Falik`_.
 
+.. include:: quick-start.rst
+
 .. include:: basic-info.rst
 
 .. include:: user-manual.rst
