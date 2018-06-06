@@ -1,7 +1,3 @@
-Basic Info
-==========
-
-
 Location & Timezone
 -------------------
 I usually work U.S. Central Time, which is UTC-6 or UTC-5 depending on Daylight Saving Time. See my current local time at `Timezone.io`_.

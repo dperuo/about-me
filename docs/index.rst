@@ -2,30 +2,15 @@
 .. _Keybase.io: https://keybase.io/derekperuo
 
 
-Working with Derek Peruo
-========================
-Hello and welcome! Please click the links to learn more about who I am and how I like to work.
+User Manual for Derek Peruo
+===========================
 
-TK Basic Info
--------------
+.. _Leah Fessler: https://qz.com/1046131/writing-a-user-manual-at-work-makes-teams-less-anxious-and-more-productive/
+.. _Abby Falik: https://www.linkedin.com/pulse/leaders-need-user-manuals-what-i-learned-writing-mine-abby-falik
 
-.. include:: basic-info
-
-TK Basic Info RST
------------------
+Hello and welcome to my user manual. It details who I am, what I value, and how best to work with me. Hat tips for the idea go to `Leah Fessler`_ and `Abby Falik`_.
 
 .. include:: basic-info.rst
-
-
-Location & Timezone
--------------------
-Usually U.S. Central Time, which is UTC-6 or UTC-5 depending on Daylight Saving Time. See my local time at `Timezone.io`_.
-
-
-
-GPG Public Key
---------------
-Hosted on `Keybase.io`_. The key fingerprint is ``16FB 5BD3 FFC9 A476``.
 
 
 Further Reading
