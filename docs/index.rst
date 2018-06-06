@@ -10,6 +10,10 @@ User Manual for Derek Peruo
 
 Hello and welcome to my user manual. It details who I am, what I value, and how best to work with me. Hat tips for the idea go to `Leah Fessler`_ and `Abby Falik`_.
 
+.. include:: basic-info.rst
+
+.. include:: user-manual.rst
+
 Resources
 ---------
 
@@ -26,13 +30,3 @@ Resources
     npm <https://www.npmjs.com/~dperuo>
     Timezone.io <https://timezone.io/people/5ad9fb24692c6f23d94646eb>
     Travis CI <https://travis-ci.org/dperuo>
-
-.. include:: basic-info.rst
-
-.. include:: user-manual.rst
-
-Further Reading
----------------
-
-.. toctree::
-    :titlesonly:
