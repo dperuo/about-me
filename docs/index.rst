@@ -1,6 +1,7 @@
 .. _Timezone.io: https://timezone.io/people/5ad9fb24692c6f23d94646eb
 .. _Keybase.io: https://keybase.io/derekperuo
 
+**Last Update: 2018-06-06**
 
 User Manual for Derek Peruo
 ===========================
@@ -13,6 +14,8 @@ Hello and welcome to my user manual. It details who I am, what I value, and how 
 .. include:: basic-info.rst
 
 .. include:: user-manual.rst
+
+
 
 Resources
 ---------
