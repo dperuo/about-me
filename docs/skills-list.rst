@@ -1,8 +1,8 @@
-**Last Update: 2018-06-01**
+**Last Update: 2018-06-06**
 
 
-Skills List
-===========
+Derek's Skills List
+===================
 
 Hello and Welcome to my Dev Skills List. It details all the skills and technologies I've used on projects.
 
