@@ -1,14 +1,3 @@
-**Last Update: 2018-05-31**
-
-User Manual
-===========
-
-.. _Leah Fessler: https://qz.com/1046131/writing-a-user-manual-at-work-makes-teams-less-anxious-and-more-productive/
-.. _Abby Falik: https://www.linkedin.com/pulse/leaders-need-user-manuals-what-i-learned-writing-mine-abby-falik
-
-Hello and welcome to my user manual. It details who I am, what I value, and how best to work with me. Hat tips for the idea go to `Leah Fessler`_ and `Abby Falik`_.
-
-
 Core Values
 -----------
 

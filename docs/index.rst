@@ -12,6 +12,9 @@ Hello and welcome to my user manual. It details who I am, what I value, and how 
 
 .. include:: basic-info.rst
 
+.. include:: user-manual.rst
+
+
 
 Further Reading
 ---------------
@@ -19,7 +22,6 @@ Further Reading
 .. toctree::
     :titlesonly:
 
-    user-manual
     playbook
     dev-skills
 
