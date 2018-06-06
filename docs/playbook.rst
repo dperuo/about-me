@@ -1,7 +1,7 @@
 **Last Update: 2018-05-31**
 
-Playbook
-========
+Derek's Playbook
+================
 
 .. _thoughtbot: http://playbook.thoughtbot.com/
 .. _Hanno: http://playbook.hanno.co/
