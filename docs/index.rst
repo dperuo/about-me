@@ -20,7 +20,7 @@ Resources
 .. toctree::
     :titlesonly:
 
-    playbook
+    Derek's Playbook <playbook>
     Official Site <http://derekperuo.net>
     Bitbucket <https://bitbucket.org/dperuo>
     GitHub <https://github.com/dperuo>
