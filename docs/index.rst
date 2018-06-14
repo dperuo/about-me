@@ -34,4 +34,5 @@ Resources
     LinkedIn <https://www.linkedin.com/in/derekperuo/>
     npm <https://www.npmjs.com/~dperuo>
     Timezone.io <https://timezone.io/people/5ad9fb24692c6f23d94646eb>
+    Time Zone Map <timezones>
     Travis CI <https://travis-ci.org/dperuo>
