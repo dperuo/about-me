@@ -1,7 +1,4 @@
 Quick Start
 -----------
 
-#. One
-#. Two
-#. Three
-#. Four
+#. Under Construction...
