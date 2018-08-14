@@ -75,10 +75,56 @@ The purpose of your code should be clear, direct, and easy to grok without searc
 
 
 
+Make Code Clear at the Point of Use
+-----------------------------------
+
+Include all the words needed to avoid ambiguity. Design methods and properties to be clear and concise. When evaluating a design, reading a declaration is seldom sufficient; always examine a use case to make sure it looks clear in context.
+
+
+
+Use Parameter Defaults When Possible
+------------------------------------
+
+Any parameter with a single commonly-used value is a candidate for a default.
+
+
+
+Use Coding Patterns When Possible
+---------------------------------
+
+`Don't Repeat Yourself`_.
+
+
+
 Use the Best Tool for the Job
 -----------------------------
 
 Don't put `square pegs in round holes <https://en.wikipedia.org/wiki/Square_peg_in_a_round_hole>`_. Use the right tool for the task at hand.
+
+
+
+Avoid Excessive Brevity
+-----------------------
+
+Although code can be compact, it is an anti-pattern to write the smallest possible code with the fewest characters. Brevity, where it occurs, is a side-effect of features in the programming language that naturally reduce boilerplate.
+
+
+
+Avoid Obscure Terms
+-------------------
+
+Don’t say “epidermis” if “skin” will do. `Terms of art <https://en.wiktionary.org/wiki/term_of_art>`_ are an essential communication tool, but should only be used to capture crucial meaning that would otherwise be lost. If you do use a term of art:
+
+- **Don't Surprise an Expert**: People already familiar with the term will be surprised and probably angered if we appear to have invented a new meaning for it.
+
+- **Don't Confuse a Beginner**: People trying to learn the term is likely to do a web search and find its traditional meaning.
+
+
+
+Avoid Abbreviations
+-------------------
+
+Abbreviations are hard to grok. Use `Descriptive And Meaningful Phrases <https://medium.com/mutual-of-omaha-digital-experience-and-design-team/damp-programming-reviving-readability-d84647cc5b2e>`_ instead.
 
 
 

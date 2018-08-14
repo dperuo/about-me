@@ -1,7 +1,7 @@
 .. _Abby Falik: https://www.linkedin.com/pulse/leaders-need-user-manuals-what-i-learned-writing-mine-abby-falik
 .. _Leah Fessler: https://qz.com/1046131/writing-a-user-manual-at-work-makes-teams-less-anxious-and-more-productive/
 
-**Last Update: 2018-08-10**
+**Last Update: 2018-08-14**
 
 Handbook for Derek Peruo
 ========================
@@ -28,7 +28,7 @@ Resources
     GitLab <https://gitlab.com/dperuo>
     Keybase <https://keybase.io/derekperuo>
     LinkedIn <https://www.linkedin.com/in/derekperuo/>
-    npm <https://www.npmjs.com/~dperuo>
-    Timezone.io <https://timezone.io/people/5ad9fb24692c6f23d94646eb>
     Time Zone Map <timezones>
+    Timezone.io <https://timezone.io/people/5ad9fb24692c6f23d94646eb>
     Travis CI <https://travis-ci.org/dperuo>
+    npm <https://www.npmjs.com/~dperuo>
