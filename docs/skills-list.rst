@@ -208,6 +208,7 @@ Collaboration & Documentation
 - JSHint
 - Markdown
 - Mercurial
+- PlantUML
 - Postman
 - Read the Docs
 - reStructuredText
