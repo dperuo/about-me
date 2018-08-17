@@ -1,12 +1,12 @@
 Quick Start
 -----------
 
-.. toctree::
-    :titlesonly:
+.. .. toctree::
+..     :titlesonly:
 
-    Basic Info <basic-info>
-    Handbook <handbook>
-    Playbook <playbook>
-    Skills List <skills-list>
-    Time Zone Map <timezones>
+..     Basic Info <basic-info>
+..     Handbook <handbook>
+..     Playbook <playbook>
+..     Skills List <skills-list>
+..     Time Zone Map <timezones>
 
