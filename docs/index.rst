@@ -7,8 +7,12 @@ Handbook for Derek Peruo
 ========================
 Hello and welcome to my handbook! It details who I am, what I value, and how best to work with me. Hat tip for the idea goes to `Leah Fessler`_ and `Abby Falik`_.
 
+Quick Start
+-----------
 .. include:: quick-start.rst
 
+Basic Info
+----------
 .. include:: basic-info.rst
 
 .. include:: handbook.rst
