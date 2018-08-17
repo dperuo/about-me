@@ -1,8 +1,8 @@
 Resources
 ---------
 
-.. toctree::
-    :titlesonly:
+.. .. toctree::
+..     :titlesonly:
 
     Derek's Playbook <playbook>
     Official Site <http://derekperuo.net>
