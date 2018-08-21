@@ -14,7 +14,7 @@ Keep It Fun
   Act with kindness and love. Find the joy. Leave people with happy memories.
 
 Take Ownership
-  No blame. No excuses. How you do anything is how you do everything.
+  `No blame. No excuses. <https://www.artofmanliness.com/articles/never-complain-never-explain/>`_ How you do anything is how you do everything.
 
 Play to Win
   *Winning* is very different than *not losing*. If we're going to play the game, play the game to win. Crush it, every day.
@@ -54,7 +54,7 @@ Start at the End
   Put the  `bottom line up front <https://hbr.org/2016/11/how-to-write-email-with-military-precision>`_. Give me the  `TL;DR <https://en.wikipedia.org/wiki/TL;DR>`_. I'll probe for details as I need them.
 
 No Blame, No Excuses
-  Say what you mean, mean what you say, don't be mean when you say it. I will do the same.
+  Say what you mean, mean what you say, `don't be mean when you say it. <https://www.artofmanliness.com/articles/never-complain-never-explain/>`_ I will do the same.
 
 Offer Solutions
   Always come to me with good solutions and your recommended plan of action.
