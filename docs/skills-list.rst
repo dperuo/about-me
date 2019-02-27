@@ -27,9 +27,11 @@ Client-Side Scripting
 - Angular
 - Asynchronous Functions
 - Callbacks
+- Capacitor
 - CoffeeScript
 - Conditionizr.js
 - Cookies
+- Cordova
 - CSON
 - IndexedDB
 - Ionic
@@ -37,12 +39,15 @@ Client-Side Scripting
 - jQuery
 - JSON
 - Knockout.js
+- Kotlin
 - LocalStorage
 - Marionette.js
 - Modernizr.js
 - Moment.js
 - Observables
+- Progressive Web App
 - Promises
+- PWA
 - Query Strings
 - Redux
 - Regex
@@ -115,7 +120,7 @@ Server-Side Scripting
 
 - Bash Shell
 - Laravel
-- PHP
+- php
 - Postman
 - Python
 - Regex
@@ -134,6 +139,7 @@ Automation & Deployment
 - CodeShip
 - Elixir
 - FTP
+- Gradle
 - Grunt
 - Gulp
 - Homebrew
@@ -237,6 +243,7 @@ Testing & Optimization
 - Google PageSpeed
 - Jasmine
 - Karma
+- Mocha
 - Phantom.js
 - PHPUnit
 - Protractor
