@@ -10,8 +10,12 @@ Hello and welcome to my handbook! It details who I am, what I value, and how bes
 .. toctree::
     :titlesonly:
 
-.. include:: basic-info.rst
+.. include:: sections/basic-info.rst
 
-.. include:: handbook.rst
+.. include:: sections/core-values.rst
 
-.. include:: resources.rst
+.. include:: sections/style.rst
+
+.. include:: sections/work-hours.rst
+
+.. include:: sections/resources.rst
