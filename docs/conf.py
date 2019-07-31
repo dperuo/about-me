@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'Derek Peruo'
-copyright = u'2018, Derek Peruo'
+copyright = u'2019, Derek Peruo'
 author = u'Derek Peruo'
 
 # The short X.Y version
@@ -150,6 +150,6 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (master_doc, 'DerekPeruo', u'Derek Peruo Documentation',
-     author, 'DerekPeruo', 'One line description of project.',
-     'Miscellaneous'),
+     author, 'DerekPeruo', 'Handbook for Derek Peruo',
+     'manual'),
 ]
