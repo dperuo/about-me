@@ -1,0 +1,36 @@
+# Node and Yarn
+**/node_modules/*
+npm-debug.log
+yarn-error.log
+
+# TypeScript
+src/*.d.ts
+src/*.js
+src/*.map
+
+# Python
+*.pyc
+
+# JetBrains
+*.iml
+.idea
+.idea/*
+.project
+.settings
+
+# Windows
+Desktop.ini
+Thumbs.db
+
+# Mac
+**/.DS_Store
+.DS_Store
+
+# Ngc generated files
+**/*.ngfactory.ts
+
+# Build files
+**/_book/*
+_build/*
+build/*
+dist/*
