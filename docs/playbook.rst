@@ -1,10 +1,10 @@
-**Last Update: 2018-05-31**
+**Last Update: 2019-07-31**
 
 Derek's Playbook
 ================
 
-.. _thoughtbot: http://playbook.thoughtbot.com/
 .. _Hanno: http://playbook.hanno.co/
+.. _thoughtbot: http://playbook.thoughtbot.com/
 
 Hello and welcome to my playbook. It details how I to build projects. It's a living document that updates often. Hat tips to `thoughtbot`_ and `Hanno`_ for the idea.
 
