@@ -242,11 +242,13 @@ Testing & Optimization
 - Gherkin
 - Google PageSpeed
 - Jasmine
+- Jest
 - Karma
 - Mocha
 - Phantom.js
 - PHPUnit
 - Protractor
+- Puppeteer
 - Selenium Webdriver
 - WebPageTest.org
 
