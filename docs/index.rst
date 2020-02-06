@@ -1,6 +1,8 @@
 .. _Abby Falik: https://www.linkedin.com/pulse/leaders-need-user-manuals-what-i-learned-writing-mine-abby-falik
 .. _Leah Fessler: https://qz.com/1046131/writing-a-user-manual-at-work-makes-teams-less-anxious-and-more-productive/
 
+*** DEPRECIATED: Please visit out `verion on Gitbook <https://handbook.derekperuo.net>`_.***
+
 **Last Update: 2019-07-31**
 
 Handbook for Derek Peruo
