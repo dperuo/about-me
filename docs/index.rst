@@ -2,19 +2,7 @@
 .. _Leah Fessler: https://qz.com/1046131/writing-a-user-manual-at-work-makes-teams-less-anxious-and-more-productive/
 
 .. ATTENTION::
-   We DEPRECIATED this version of the handbook on 06-Feb-2020. Please use our `version on Gitbook <https://handbook.derekperuo.net>`_.
-
-.. CAUTION::
-   We DEPRECIATED this version of the handbook on 06-Feb-2020. Please use our `version on Gitbook <https://handbook.derekperuo.net>`_.
-
-.. DANGER::
-   We DEPRECIATED this version of the handbook on 06-Feb-2020. Please use our `version on Gitbook <https://handbook.derekperuo.net>`_.
-
-.. IMPORTANT::
-   We DEPRECIATED this version of the handbook on 06-Feb-2020. Please use our `version on Gitbook <https://handbook.derekperuo.net>`_.
-
-.. WARNING::
-   We DEPRECIATED this version of the handbook on 06-Feb-2020. Please use our `version on Gitbook <https://handbook.derekperuo.net>`_.
+   We DEPRECIATED this version of the handbook on 2020-02-06. Please use our `version on Gitbook <https://handbook.derekperuo.net>`_.
 
 **Last Update: 2019-07-31**
 

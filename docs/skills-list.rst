@@ -1,5 +1,7 @@
-**Last Update: 2018-06-06**
+.. ATTENTION::
+   We DEPRECIATED this version of the skils list on 2020-02-06. Please use our `version on Gitbook <https://playbook.derekperuo.net/resources/skills>`_.
 
+**Last Update: 2018-06-06**
 
 Derek's Skills List
 ===================

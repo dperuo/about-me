@@ -1,3 +1,6 @@
+.. ATTENTION::
+   We DEPRECIATED this version of the playbook on 2020-02-06. Please use our `version on Gitbook <https://playbook.derekperuo.net>`_.
+
 **Last Update: 2019-07-31**
 
 Derek's Playbook
